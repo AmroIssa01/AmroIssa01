@@ -1,6 +1,7 @@
 ### Hi there 👋
+## This is slightly bigger
+# This is the biggest
 
-<!--
 **AmroIssa01/AmroIssa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+```python
+import requests
+print("This is python!")
+```
+
+![image](https://user-images.githubusercontent.com/130357363/230878425-767ee538-93fd-48d2-9160-59d2f1a8bd50.png)
+

@@ -1,24 +1,6 @@
-### Hi there 👋
-## This is slightly bigger
-# This is the biggest
+## Who am I?
+- Cyber security student at HTU (Al Hussein technical university)
 
-**AmroIssa01/AmroIssa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-```python
-import requests
-print("This is python!")
-```
-
-![image](https://user-images.githubusercontent.com/130357363/230878425-767ee538-93fd-48d2-9160-59d2f1a8bd50.png)
-
+## Operating Systems

@@ -12,6 +12,8 @@
 - PHP
 - HTML
 - CSS
+- C++
+- more stuff that I can't recall😁
 
 ## Operating Systems
 

@@ -1,5 +1,5 @@
 # Who am I?
-***Cyber security student at HTU (Al Hussein technical university)***
+***Cyber security graduate from HTU (Al Hussein technical university)***
 
 **I do not mind working anything**
 
